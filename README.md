@@ -112,3 +112,5 @@ Lihat hasilnya dibrowser.<br>
     => buat single layout yang berisi deskripsi, portfolio, dll
 2. Tambahkan layout untuk menu Contact<br>
     => yang berisi form isian: nama, email, message, dll
+## JAWABAN 
+
