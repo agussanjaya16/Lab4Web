@@ -1,4 +1,4 @@
-# LAB4WEB
+# LAB4WEB Tugas Pemoggraman Web
 
 | Nama        | Agus sanjaya     |
 | ----------  | -------------    |
@@ -45,3 +45,70 @@ Kemudian buka browser dan lihat hasilnya.<br>
 ![Lab4web](img/hasil%20layout%20sederhana.PNG)<br>
 
 Kemudian tambahkan kode CSS untuk membuat layoutnya.<br>
+![Lab4web](img/kode%20css%20layout.PNG)<br>
+
+kemudian lihat hasilnya pada browser.<br>
+![Lab4web](img/hasil%20%20css%20layout.PNG)<br>
+
+## 3. Membuat navigasi
+Kemudian selanjutnya mengatur navigasi.<br>
+![Lab4web](img/membuat%20navigasi.png)<br>
+
+kemudian lihat hasilnya.<br>
+![Lab4web](img/hasil%20navigasi.png)<br>
+
+## 4. Membuat Hero Fanel.
+Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.<br>
+![Lab4web](img/hero%20fanel%20html.png)<br>
+
+![Lab4web](img/hero%20fanel%20css.png)<br>
+
+Dan ini hasilnya.<br>
+![Lab4web](img/hasil%20membuat%20hero%20fanel.png)<br>
+
+## Mengatur Layout Main dan Sidebar
+Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.<br>
+![Lab4web](img/mengatur%20main.png)<br>
+
+## Membuat Sidebar Widget
+Kemudian selanjutnya menambahkan element lain dalam sidebar.<br>
+![Lab4web](img/membuat%20sidebar.png)<br>
+
+Kemudian tambahkan CSS.<br>
+![Lab4web](img/widget%20css.png)<br>
+
+Kemudian lihat hasilnya.<br>
+![Lab4web](img/hasil%20membuat%20sidebar.png)<br>
+
+## Mengatur Footer
+Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.<br>
+![Lab4web](img/mengatur%20footer.png)<br>
+
+Kemudian lihat hasilnya.<br>
+![Lab4web](img/hasil%20footer.png)<br>
+
+## Menambahkan Elemen lainnya pada Main Content
+![Lab4web](img/menambahkan%20main%20konten.png)<br>
+
+Kemudian tambahkan CSS.<br>
+![Lab4web](img/box%20css.png)<br>
+![Lab4web](img/box%20css%202.png)<br>
+
+Lihat hasilnya dibrowser.<br>
+![Lab4web](img/hasil%20main%20konten.png)<br>
+
+## Menambahkan Content Artikel
+Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.<br>
+![Lab4web](img/artikel%20html.png)<br>
+
+Kemudian tambahkan CSS.<br>
+![Lab4web](img/artikel%20css.png)<br>
+
+Lihat hasilnya dibrowser.<br>
+![Lab4web](img/hasil%20artikel.png)<br>
+
+## Pertanyaan dan Tugas
+1. Tambahkan Layout untuk menu About
+    => buat single layout yang berisi deskripsi, portfolio, dll
+2. Tambahkan layout untuk menu Contact
+    => yang berisi form isian: nama, email, message, dll
