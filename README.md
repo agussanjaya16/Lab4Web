@@ -34,3 +34,14 @@ dan amati perubahannya.
 ## 2. Membuat Layout Sederhana
 Buat folder baru dengan nama lab4_layout, kemudian buatlah file baru didalamnya dengan nama
 home.html, dan file css dengan nama style.css.<br>
+![Lab4web](img/home%20html.PNG)<br>
+
+![Lab4web](img/home%20html%202.PNG)<br>
+
+Kemudian tulis kode berikut.<br>
+![Lab4web](img/kode%20layout.PNG)<br>
+
+Kemudian buka browser dan lihat hasilnya.<br>
+![Lab4web](img/hasil%20layout%20sederhana.PNG)<br>
+
+Kemudian tambahkan kode CSS untuk membuat layoutnya.<br>
