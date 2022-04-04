@@ -108,7 +108,7 @@ Lihat hasilnya dibrowser.<br>
 ![Lab4web](img/hasil%20artikel.png)<br>
 
 ## Pertanyaan dan Tugas
-1. Tambahkan Layout untuk menu About
+1. Tambahkan Layout untuk menu About <br>
     => buat single layout yang berisi deskripsi, portfolio, dll
-2. Tambahkan layout untuk menu Contact
+2. Tambahkan layout untuk menu Contact<br>
     => yang berisi form isian: nama, email, message, dll
